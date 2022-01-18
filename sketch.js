@@ -135,7 +135,7 @@ else if ( gameState===END) {
   drawSprites();
   fill("lightpink");
   textSize(20);
-   text("Score: "+ score, 0,50);
+   text("Score: "+ score, 250,50);
 }
 
 function reset(){
